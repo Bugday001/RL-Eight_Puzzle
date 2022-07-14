@@ -5,7 +5,10 @@ from Get_loction import detect_num, stackImages
 
 
 if __name__ == "__name__":
-    img = cv2.imread("./img/test1.jpg")
-    imgProcess, imgRes = detect_num(img)
-    cv2.imshow("Video", imgRes)
-    cv2.waitKey(0)
+    print("测试用！")
+    print("执行Get_loction.py开始！")
+    print("出现检测界面，在检测界面按`s`即可开始求解八数码。")
+    # img = cv2.imread("./img/test1.jpg")
+    # imgProcess, imgRes = detect_num(img)
+    # cv2.imshow("Video", imgRes)
+    # cv2.waitKey(0)
