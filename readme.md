@@ -1,6 +1,6 @@
 # 八数码问题-强化学习
 识别手写八数码问题，并使用强化学习求解。(Dueling DQN)
-
+[演示视频](https://www.bilibili.com/video/BV1xU4y1B7AG/)
 ## 使用方法
 执行`Get_loction.py`。出现检测界面，在检测界面按`s`即可开始求解八数码。
 
